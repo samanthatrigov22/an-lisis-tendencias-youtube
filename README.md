@@ -1,5 +1,5 @@
 # an-lisis-tendencias-youtube
-###PROYECTO: ANÁLISIS DE TENDENCIAS DE YOUTUBE - STERLING & DRAPER###
+### PROYECTO: ANÁLISIS DE TENDENCIAS DE YOUTUBE - STERLING & DRAPER ###
 
 Enlace al Dashboard interactivo: https://public.tableau.com/views/AnlisisdeTendenciasdeYoutube-SterlingDraper/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
